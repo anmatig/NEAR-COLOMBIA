@@ -37,10 +37,10 @@ export default function Home() {
               <div className="w-full flex flex-col justify-center items-center space-y-8">
                 <div className="flex flex-col justify-center items-center space-y-8">
                   <h1 className="h1-90 text-5xl text-white">
-                    NEAR COLOMBIA APP
+                    WELCOME to NEAR COLOMBIA
                   </h1>
                   <h2 className="p-big-90 text-white">
-                    Un simple smart contract NEAR COLOMBIA
+                    Smart Contract NEAR COLOMBIA APP
                   </h2>
                 </div>
                 <div>
