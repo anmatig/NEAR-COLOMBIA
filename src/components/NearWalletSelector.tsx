@@ -7,7 +7,7 @@ export const NearWalletConnector = () => {
   const { connect, disconnect, activeAccountId, isConnected } = useMbWallet();
 
   if (!isConnected) {
-    return <Button onClick={connect}> Connect To NEAR </Button>;
+    return <Button onClick={connect}> Connect To NEAR Wallet </Button>;
   }
 
   return (
