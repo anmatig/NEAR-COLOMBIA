@@ -77,5 +77,5 @@
 
 .gradient { 
 background: rgb(255.255.0);
-background: radial-gradient(circle, rgba(255,0,0,1.5) 0%, rgba(0,0,255,0.6) 33.33%, rgba(255,255,0,0.6) 66.67%);
+background: radial-gradient(circle, rgba(255,0,0,1) 0%, rgba(0,0,255,0.6) 33.33%, rgba(255,255,0,0.8) 66.67%);
 }
