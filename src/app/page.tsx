@@ -40,7 +40,7 @@ export default function Home() {
                     NEAR COLOMBIA APP
                   </h1>
                   <h2 className="p-big-90 text-white">
-                    A simple smart contract NEAR COLOMBIA
+                    Un simple smart contract NEAR COLOMBIA
                   </h2>
                 </div>
                 <div>
