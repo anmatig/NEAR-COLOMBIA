@@ -37,7 +37,7 @@ export default function Home() {
               <div className="w-full flex flex-col justify-center items-center space-y-8">
                 <div className="flex flex-col justify-center items-center space-y-8">
                   <h1 className="h1-90 text-5xl text-white">
-                    WELCOME to NEAR COLOMBIA
+                    Welcome to NEAR Colombia
                   </h1>
                   <h2 className="p-big-90 text-white">
                     Smart Contract NEAR COLOMBIA APP
