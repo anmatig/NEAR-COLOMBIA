@@ -11,7 +11,7 @@ export const NearWalletConnector = () => {
   }
 
   return (
-    <div className="absolute top-0 right-0 mt-4 mr-4">
+    <div className="fixed flex flex-wrap w-[350] h-[200] justify-center items-center top-5 right-5">
       <b className="truncate">{activeAccountId}</b>
       <div className="flex justify-center items-center mt-4">
         <Button onClick={disconnect}> Disconnect</Button>
